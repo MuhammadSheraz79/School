@@ -1,0 +1,28 @@
+{
+   "teachers":[
+      {
+         "id":1,
+         "title":"Logan"
+      },
+      {
+         "id":2,
+         "title":"Scott"
+      },
+      {
+         "id":3,
+         "title":"Charles"
+      }
+   ],
+   "students":[
+      {
+         "id":1,
+         "name":"Andrison",
+         "teacherId":1
+      },
+      {
+         "id":2,
+         "name":"Adams",
+         "teacherId":1
+      }
+   ]
+}
