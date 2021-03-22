@@ -17,17 +17,17 @@
       {
          "id":1,
          "name":"Andrison",
-         "teacherId":"1"
+         "teacherId":1
       },
       {
          "id":2,
          "name":"Leo",
-         "teacherId":"1"
+         "teacherId":2
       },
       {
          "id":3,
          "name":"Adams",
-         "teacherId":"1"
+         "teacherId":1
       }
    ]
 }
